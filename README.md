@@ -1,7 +1,7 @@
 
-# @alialfredji/hook-app
+# hook-app
 
-`@alialfredji/hook-app` is a dynamic framework designed to supercharge your Node.js applications. It offers a traceable, debuggable, and modular approach to build and manage your applications. Inspired by the flexibility of WordPress plugins, it provides a simple plugin system that supports both synchronous and asynchronous extension points. Forget about infrastructure and focus on business logic.
+`hook-app` is a dynamic framework designed to supercharge your Node.js applications. It offers a traceable, debuggable, and modular approach to build and manage your applications. Inspired by the flexibility of WordPress plugins, it provides a simple plugin system that supports both synchronous and asynchronous extension points. Forget about infrastructure and focus on business logic.
 
 ## Installation
 
