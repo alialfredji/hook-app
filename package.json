@@ -1,6 +1,6 @@
 {
     "name": "@alialfredji/hook-app",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A dynamic framework to supercharge your Node.js applications with hooks.",
     "author": "Ali Alfredji <alfredjiali@gmail.com>",
     "license": "ISC",
