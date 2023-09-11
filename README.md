@@ -1,27 +1,27 @@
 
-# hook-app
+# @alialfredji/hook-app
 
-`hook-app` is a dynamic framework designed to supercharge your Node.js applications. It offers a traceable, debuggable, and modular approach to build and manage your applications. Inspired by the flexibility of WordPress plugins, it provides a simple plugin system that supports both synchronous and asynchronous extension points. Forget about infrastructure and focus on business logic.
+`@alialfredji/hook-app` is a dynamic framework designed to supercharge your Node.js applications. It offers a traceable, debuggable, and modular approach to build and manage your applications. Inspired by the flexibility of WordPress plugins, it provides a simple plugin system that supports both synchronous and asynchronous extension points. Forget about infrastructure and focus on business logic.
 
 ## Installation
 
 Getting started is as simple as:
 
 ```bash
-npm install hook-app
+npm install @alialfredji/hook-app
 ```
 
 Or if you're a Yarn enthusiast:
 
 ```bash
-yarn add hook-app
+yarn add @alialfredji/hook-app
 ```
 
 Craft a basic hello world hook app:
 
 ```javascript
 
-const hookApp = require('hook-app');
+const hookApp = require('@alialfredji/hook-app');
 
 const feature1 = ({ registerAction, registerHook }) => {
     const defaults = {
